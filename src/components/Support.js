@@ -8,7 +8,7 @@ const Support = () => {
       <div className="w-full h-[700px] bg-slate-900 absolute">
         <img src={supportImg} alt="support" className="object-cover w-full h-full mix-blend-overlay" />
       </div>
-      <div className="max-w-[1240px] mx-suto text-white relative">
+      <div className="max-w-[1240px] mx-auto text-white relative">
         <div className="px-4 py-12">
           <h2 className="pt-8 text-3xl text-center uppercase text-slate-300">Support</h2>
           <h3 className="py-6 text-5xl font-bold text-center">We support you</h3>
