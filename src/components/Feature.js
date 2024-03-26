@@ -5,7 +5,7 @@ const Feature = () => {
   return (
     <section name="feature" className="w-full my-32">
       <div className="max-w-[1240px] mx-auto px-2">
-        <h2 className="text-5xl font-bold text-center">Features</h2>
+        <h2 className="text-5xl font-bold text-center ">Features</h2>
         <p className="py-8 text-2xl text-center text-gray-500">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequatur cupiditate nemo fugiat dolores illo.
           Sed.

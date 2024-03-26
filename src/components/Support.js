@@ -4,13 +4,13 @@ import { FaArrowRight } from 'react-icons/fa';
 
 const Support = () => {
   return (
-    <section name="support" className="w-full mt-24">
+    <section name="support" className="w-full">
       <div className="w-full h-[700px] bg-slate-900 absolute">
         <img src={supportImg} alt="support" className="object-cover w-full h-full mix-blend-overlay" />
       </div>
       <div className="max-w-[1240px] mx-auto text-white relative">
         <div className="px-4 py-12">
-          <h2 className="pt-8 text-3xl text-center uppercase text-slate-300">Support</h2>
+          <h2 className="pt-8 text-3xl text-center uppercase text-slate-300 mt-24">Support</h2>
           <h3 className="py-6 text-5xl font-bold text-center">We support you</h3>
           <p className="py-4 text-3xl text-slate-300">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia omnis magni quos voluptatibus, dignissimos
